@@ -1,4 +1,5 @@
 Installing necessary packages:
+
 pip install fastapi
 pip install "uvicorn[standard]"
 pip install sqlalchemy
@@ -7,6 +8,7 @@ pip install pytest
 pip install pytest-mock
 pip install httpx
 pip install cryptography
+
 Run the server:
 uvicorn api.main:app --reload
 
