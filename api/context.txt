@@ -1,0 +1,1 @@
+If you ever see me in class can you tell me how to fix the pathing with python for future downloads using github because tried downloading the whole assignment5, but got python not found error and was like I have python so why isn't this working, so was assuming pathing issue and just havent quite figured it out yet, so would much appreciate some help for the future
